@@ -12,7 +12,7 @@ google_analytics: UA-114728204-1
 
 show_excerpts: true
 
-permalink: /:title
+permalink: /:year/:month/:day/:title
 
 minima:
   date_format: "%B %-d, %Y"

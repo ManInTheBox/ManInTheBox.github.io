@@ -6,6 +6,8 @@ permalink: /about/
 
 Hi there, thanks for visiting my blog!
 
+![Žarko Stanković](/assets/zarko3.jpg){:height="30%" width="30%" align="right"}
+
 My name is Žarko Stanković (pronounced [zǎːrko stǎːŋkoʋitɕ]). I am a software engineer from Belgrade, Serbia.
 I'm a seasoned programmer, specialized in building backend systems with PHP. I tend to employ best practices
 I learned throughout my 10 years old development career. I strive to learn new things every day, but always having

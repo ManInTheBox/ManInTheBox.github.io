@@ -21,6 +21,8 @@ I enjoy working as full-time employee at [Chess.com](https://www.chess.com/) - w
 One of bigger projects I did for Chess.com is our internal RESTful API which empowers our mobile applications.
 Working with great people on the amazing project and trying to delight more than 20 million chess lovers is both joy and honor!
 
+Although I'm mostly self-taught, I also graduated from [ICT College of Vocational Studies](http://en.ict.edu.rs/) and earned **Bachelor appl.** diploma.
+
 Besides being in front of my computer improving my software craftsmanship skills, I try to maintain a good work-life balance.
 I love traveling with my girlfriend, playing guitar (I'm a big music lover!), running (member of Belgrade Running Club, ran half marathon once and few other shorter races),
 reading books (non-technical as well) and spending time with friends and family!
